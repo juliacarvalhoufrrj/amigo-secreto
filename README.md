@@ -1,6 +1,10 @@
 <h1>⋆.˚✮ Desafio do Amigo Secreto ✮˚.⋆</h1>
 <h2>ֶָ֢⊹𐙚 Sobre</h2>
-<p> Este projeto foi criado a partir dos cursos de lógica de programação da Alura.</p>
+<p> Este projeto foi criado a partir dos cursos de lógica de programação da Alura.
+  
+O desafio consiste em elaborar, através do javascript, o funcionamento da página que realizará um sorteio com os nomes inseridos pelo usuário.
+
+Importante para o funcionamento do mesmo, é exibido um alerta caso um nome sorteado for selecionado aleatoriamente mais uma vez.</p>
 
 ## -`♡´- Tecnologies
 <div>
