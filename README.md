@@ -4,7 +4,11 @@
   
 O desafio consiste em elaborar, através do javascript, o funcionamento da página que realizará um sorteio com os nomes inseridos pelo usuário.
 
-Importante para o funcionamento do mesmo, é exibido um alerta caso um nome sorteado for selecionado aleatoriamente mais uma vez.</p>
+Importante para o funcionamento do mesmo, é exibido um alerta caso um nome sorteado for selecionado aleatoriamente mais uma vez.
+
+![Badge Completo](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=AD4870&style=for-the-badge)
+
+</p>
 
 ## -`♡´- Tecnologies
 <div>
